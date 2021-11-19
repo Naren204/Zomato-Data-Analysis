@@ -1,6 +1,6 @@
 # Zomato-Data-Analysis
 
-This Dashboard includess following insights on the data:
+## This Dashboard includess following insights on the data:
 
 Total number of Restaurants registered with Zomato in India.
 
